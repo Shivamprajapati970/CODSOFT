@@ -47,4 +47,3 @@ presse 4 for Division of two number.
     else:
         print("ok you are quit ")
         break;
-    
